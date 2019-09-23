@@ -1,0 +1,8 @@
+{
+    "name": "zhangzhaowy/test_library",
+    "description": "a test library",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
